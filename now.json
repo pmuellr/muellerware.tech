@@ -1,0 +1,10 @@
+{
+  "name": "muellerware-tech",
+  "builds": [
+    { "src": "**/*", "use": "@now/static"}
+  ],
+  "alias": [
+    "muellerware.tech"
+  ],
+  "version": 2
+}
